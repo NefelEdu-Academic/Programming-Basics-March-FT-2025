@@ -1,9 +1,9 @@
-# Web-Fun-March-FT-2025
+# Programming-Basics-March-FT-2025
 
 
-# Welcome to Instructor Ghada GitHUB Repo
+# Welcome to Instructor Ghada GitHub Repo
  
-## clone / fork this repo, then`git pull` to get the latest changes
+## clone/fork this repo, then ' git pull ` to get the latest changes
 
 <br />
 
